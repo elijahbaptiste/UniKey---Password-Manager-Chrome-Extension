@@ -4,7 +4,10 @@ async function sayHello() {
     chrome.scripting.executeScript({
         target: { tabId: tab.id },
         func: () => {
-            alert('Hello from my extension!');
+            const pass = generatePassword();
+            alert('Your New Password: ');
+            alert(pass);
+            
         }
     });
 }

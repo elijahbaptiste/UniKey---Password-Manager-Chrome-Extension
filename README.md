@@ -1,10 +1,10 @@
-UniKey - Password Manager Chrome Extension
+# UniKey - Password Manager Chrome Extension
 
-Overview
+## Overview
 
 UniKey is a lightweight and secure Chrome extension designed to store and autofill passwords effortlessly. It eliminates the need to remember multiple passwords by encrypting and managing credentials securely.
 
-Features
+## Features
 
 🔐 AES-256 Encryption for secure password storage.
 
@@ -16,15 +16,15 @@ Features
 
 🛡️ Master Key Protection ensures only you have access.
 
-Tech Stack
+## Tech Stack
 
 Frontend: JavaScript, HTML, CSS
 
-Backend: Chrome Storage API, Crypto API
+Backend: Chrome Storage API
 
-Tools: Webpack, ESLint
 
-Installation
+
+## Installation
 
 Clone the repository:
 
@@ -42,7 +42,7 @@ Enable Developer mode
 
 Click Load unpacked and select the project folder
 
-Usage
+## Usage
 
 Click on the UniKey extension icon in the Chrome toolbar.
 
@@ -50,19 +50,19 @@ Add and manage your passwords.
 
 Use the autofill feature when logging into websites.
 
-Roadmap
+## Roadmap
 
 
 
-Contributing
+## Contributing
 
 Pull requests are welcome! Please open an issue first to discuss proposed changes.
 
-License
+## License
 
 MIT License. See LICENSE for details.
 
-Contact
+## Contact
 
 For any questions, feel free to reach out at [your email] or open an issue on GitHub.
 

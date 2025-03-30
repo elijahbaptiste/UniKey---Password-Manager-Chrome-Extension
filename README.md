@@ -51,6 +51,13 @@ Add and manage your passwords.
 Use the autofill feature when logging into websites.
 
 ## Roadmap
+1. Auto-Fill Passwords – Allow users to store and auto-fill login credentials.
+2. Basic UI – Simple popup with a form to add/view saved credentials.
+3. Master Password – Require a master password to access stored credentials.
+4. Dark Mode Toggle – Improve accessibility.
+5. Copy-to-Clipboard Button – Easily copy passwords with a single click.
+6. AES Encryption – Encrypt stored passwords for better security.
+7.  Publish on Chrome Web Store – Make it available for public download.
 
 
 
@@ -64,7 +71,7 @@ MIT License. See LICENSE for details.
 
 ## Contact
 
-For any questions, feel free to reach out at [your email] or open an issue on GitHub.
+For any questions, feel free to reach out at elijahbaptiste79@gmail.com or open an issue on GitHub.
 
 "Secure your passwords, stress-free with UniKey."
 
